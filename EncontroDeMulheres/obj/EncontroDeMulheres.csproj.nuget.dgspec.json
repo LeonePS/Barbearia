@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TREINAMENTO01\\source\\repos\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj": {}
+    "C:\\Users\\TREINAMENTO01\\Documents\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TREINAMENTO01\\source\\repos\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj": {
+    "C:\\Users\\TREINAMENTO01\\Documents\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TREINAMENTO01\\source\\repos\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj",
+        "projectUniqueName": "C:\\Users\\TREINAMENTO01\\Documents\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj",
         "projectName": "EncontroDeMulheres",
-        "projectPath": "C:\\Users\\TREINAMENTO01\\source\\repos\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj",
+        "projectPath": "C:\\Users\\TREINAMENTO01\\Documents\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj",
         "packagesPath": "C:\\Users\\TREINAMENTO01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TREINAMENTO01\\source\\repos\\EncontroDeMulheres\\EncontroDeMulheres\\obj\\",
+        "outputPath": "C:\\Users\\TREINAMENTO01\\Documents\\EncontroDeMulheres\\EncontroDeMulheres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TREINAMENTO01\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67WmYnW9Ylnf/jIxYWuCl4+7K2EKteA9BqSq25XjJqE9yHWtGnyef9uF/1MuEvdDaQOkJxGCqtGdeKg7UmsbHQ==",
+  "dgSpecHash": "J8fM7HwAoW3Zs/UjHulKQBw1YQfKPLrCV8KhOHwAzYNJUTecZh0t2DywabkTIQGOmfHcOMIqx2AwyBpXQLMiCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TREINAMENTO01\\source\\repos\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj",
+  "projectFilePath": "C:\\Users\\TREINAMENTO01\\Documents\\EncontroDeMulheres\\EncontroDeMulheres\\EncontroDeMulheres.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TREINAMENTO01\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\TREINAMENTO01\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
