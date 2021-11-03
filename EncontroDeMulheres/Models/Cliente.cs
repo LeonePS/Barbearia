@@ -17,6 +17,7 @@ namespace EncontroDeMulheres.Models
         public string CPF { get; set; }
         [Required]
         public string Telefone { get; set; }
+
         [Required]
         public string Foto { get; set; }
     }
